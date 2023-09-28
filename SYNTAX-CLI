@@ -1,0 +1,5 @@
+Init:
+go mod init dharma.putra/go-fiber-postgres
+
+Install dependencies:
+go mod tidy
